@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+}
+
+h4,h5 {
+    text-align: center;
+}
+
+#add-train {
+    background-color: tomato;
+}
+
+#header {
+    background-color: tomato;
+    color: white;
+}
